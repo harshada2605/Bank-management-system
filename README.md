@@ -26,6 +26,7 @@ Built using **Java, Java Swing, JDBC, and MySQL**, this system ensures secure au
 * 🖥️ **Java Swing** – Graphical User Interface
 * 🔗 **JDBC** – Database connectivity
 * 🗄️ **MySQL** – Data storage and management system
+* 🛠️ **NetBeans** IDE – Used for project development and implementation
 
 ---
 
